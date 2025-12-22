@@ -247,7 +247,7 @@ const Dashboard = ({ navigate }) => {
         <div className="relative z-10 grid lg:grid-cols-12 gap-8 items-start">
           <div className="lg:col-span-7 space-y-6">
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-500/20 backdrop-blur-md border border-blue-400/30 text-blue-200 text-xs font-bold uppercase tracking-widest mb-6 shadow-lg">
-               Strategic OD Proposal 2025
+               Strategic Content Dev Proposal 2025
             </div>
             
             <div className="space-y-2">
@@ -2229,7 +2229,7 @@ const Page1 = () => {
             <div className="w-10 h-10 bg-white rounded-full flex items-center justify-center text-slate-400 border border-slate-200 shadow-sm"><User size={20}/></div>
             <div>
               <div className="text-sm font-bold text-slate-700">Ilham</div>
-              <div className="text-xs text-slate-400 font-medium">Senior Content Lead</div>
+              <div className="text-xs text-slate-400 font-medium">Content Dev Sr. Officer</div>
             </div>
           </div>
         </div>
